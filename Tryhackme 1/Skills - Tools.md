@@ -1,0 +1,7 @@
+1. [[Nmap]]
+2. [[Gobuster]]
+3. [[ffuf]]
+4. [[Enum4Linux]]
+5. [[Hydra]]
+6. [[Linpeas]]
+7. [[JacktheRipper]]
